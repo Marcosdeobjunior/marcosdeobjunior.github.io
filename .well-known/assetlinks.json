@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.marcosdeobjunior.soldesoter",
+      "sha256_cert_fingerprints": [
+        "04:A1:56:8F:0D:98:1F:7F:F2:25:6C:C1:15:50:66:64:C9:14:28:4B:EC:D5:76:AF:65:19:E5:CD:EC:83:4E:67"
+      ]
+    }
+  }
+]
